@@ -1,7 +1,10 @@
 # Lista de PERMITIDOS: tudo é ignorado, exceto o que está liberado abaixo.
 # Motivo: ~/.claude também guarda login, histórico e transcrição de conversas.
+# CLAUDE.md fica de fora de propósito: tem dado pessoal e este repo é público.
 /*
 !/.gitignore
 !/README.md
+!/settings.json
 !/skills/
+!/agents/
 /skills/synced/

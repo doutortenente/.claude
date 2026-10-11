@@ -1,0 +1,17 @@
+{
+  "enabledPlugins": {
+    "cc-plugin-agents-md@builtin": false,
+    "cc-plugin-telemetry@builtin": false,
+    "accelerate-ai-toolkit@synced": false,
+    "cowork-plugin-management@synced": false,
+    "healthcare-copy@synced": false,
+    "cc-plugin-diff@builtin": false,
+    "cc-plugin-plugin-authoring@builtin": false
+  },
+  "modelSettings": {
+    "claude-sonnet-5-5": {
+      "effortLevel": "medium"
+    }
+  },
+  "theme": "dark-daltonized"
+}
