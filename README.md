@@ -1,4 +1,4 @@
-# claude-config
+# .claude
 
 Configuração pessoal do Claude Code: este repo **é** a pasta `~/.claude`.
 
