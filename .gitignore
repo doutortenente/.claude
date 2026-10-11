@@ -1,0 +1,7 @@
+# Lista de PERMITIDOS: tudo é ignorado, exceto o que está liberado abaixo.
+# Motivo: ~/.claude também guarda login, histórico e transcrição de conversas.
+/*
+!/.gitignore
+!/README.md
+!/skills/
+/skills/synced/
