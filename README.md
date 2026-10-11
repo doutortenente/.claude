@@ -5,7 +5,6 @@ Configuração pessoal do Claude Code: este repo **é** a pasta `~/.claude`.
 | Item | O que é |
 |---|---|
 | `skills/<nome>/` | 13 skills do pacote "nativas" do Claude (criação de skills e agentes, brainstorming, MCP, humanizer etc.) |
-| `agents/<nome>.md` | 8 subagentes (batedor, caco, chefe, fiscal, residente, secretaria, zelador, auditor-do-repo) |
 | `settings.json` | configurações, sem segredo |
 
 Fora do git, de propósito: login, histórico, conversas, plugins e `CLAUDE.md` pessoal.
