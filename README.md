@@ -4,7 +4,7 @@ Configuração pessoal do Claude Code: este repo **é** a pasta `~/.claude`.
 
 | Item | O que é |
 |---|---|
-| `skills/<nome>/` | 14 skills: 13 do pacote "nativas" do Claude (criação de skills e agentes, brainstorming, MCP, humanizer etc.) + `github-senior` (fluxo de git e GitHub nos repositórios do operador) |
+| `skills/<nome>/` | 13 skills do pacote "nativas" do Claude (criação de skills e agentes, brainstorming, MCP, humanizer etc.) |
 | `CLAUDE.md` | regras globais e persona |
 | `settings.json` | configurações, sem segredo |
 
